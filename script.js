@@ -3,6 +3,7 @@ $(init);
 function init() {
   $("#currentDay").text(moment().format("dddd, MMMM Do"));
 
+  colorTimeBlocks();
   setInterval(colorTimeBlocks, 60000);
 
   $(".time-block").each(function () {
