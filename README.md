@@ -1,6 +1,7 @@
 # Day-Planner
 
-FireShot Capture 010 - Work Day Scheduler - friel2021.github.io
+![FireShot Capture 010 - Work Day Scheduler - friel2021 github io](https://user-images.githubusercontent.com/87154134/128555308-40563361-6049-4d49-b080-b6112637ff00.png)
+
 
 ## User Story
 
